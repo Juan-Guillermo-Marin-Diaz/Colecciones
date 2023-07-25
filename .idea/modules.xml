@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Actividad Extra Tienda/Actividad Extra Tienda.iml" filepath="$PROJECT_DIR$/Actividad Extra Tienda/Actividad Extra Tienda.iml" />
       <module fileurl="file://$PROJECT_DIR$/Colecciones.iml" filepath="$PROJECT_DIR$/Colecciones.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ejemplo 01 Agregar Objetos Guia 10/Ejemplo 01 Agregar Objetos Guia 10.iml" filepath="$PROJECT_DIR$/Ejemplo 01 Agregar Objetos Guia 10/Ejemplo 01 Agregar Objetos Guia 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejemplo Comparator/Ejemplo Comparator.iml" filepath="$PROJECT_DIR$/Ejemplo Comparator/Ejemplo Comparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicio 01 Razas Perros Guia 10/Ejercicio 01 Razas Perros Guia 10.iml" filepath="$PROJECT_DIR$/Ejercicio 01 Razas Perros Guia 10/Ejercicio 01 Razas Perros Guia 10.iml" />
     </modules>
   </component>
 </project>
